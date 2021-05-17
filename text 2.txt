@@ -1,0 +1,5 @@
+Installed flutter and android  studio
+
+Executed a demo flutter app
+
+Further learning flutter
